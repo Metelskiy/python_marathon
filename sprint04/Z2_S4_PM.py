@@ -1,7 +1,6 @@
 class Pizza:
     order=0
     #hawaiian=["ham","pineapple"]
-    .
     def __init__(self, ingredients, order_number=0):
         Pizza.order+=1
         self.order_number=order_number
